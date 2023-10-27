@@ -42,7 +42,7 @@ namespace practos55
 
         }
         /// <summary>
-        /// 
+        /// цены
         /// </summary>
         static void Form()
         {
