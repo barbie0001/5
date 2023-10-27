@@ -20,11 +20,5 @@ namespace practos55
             menu.DisplayMenu();
             Console.WriteLine("Selected option: " + Menu.options[menu.selectedOption]);
         }
-        public static void Tort()
-        {
-
-        }
-
     }
-
 }

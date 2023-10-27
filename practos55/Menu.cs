@@ -41,6 +41,9 @@ namespace practos55
             price[5] = new int[] { 500, 300, 1000, 300, 700 };
 
         }
+        /// <summary>
+        /// 
+        /// </summary>
         static void Form()
         {
             
