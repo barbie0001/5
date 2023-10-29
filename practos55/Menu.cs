@@ -133,7 +133,7 @@ namespace practos55
         public void DisplayMenu()
         {
             ConsoleKeyInfo keyInfo;
-
+            int temp = 0;
             do
             { 
                 Console.Clear();
@@ -169,7 +169,7 @@ namespace practos55
                 }
                 else if (keyInfo.Key == ConsoleKey.Enter)
                 {
-                    int temp = 0;
+                   
                     if (options == mainMenu)
                     {
                         if (selectedOption == 6)
